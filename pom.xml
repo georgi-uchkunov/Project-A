@@ -11,7 +11,7 @@
 	<groupId>st.mag</groupId>
 	<artifactId>Project-A</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>pom</packaging>
 	<name>Project-A</name>
 	<description>Example project for Software Tools</description>
 
@@ -86,4 +86,7 @@
 		</plugins>
 	</build>
 
+	<modules>
+		<module>Project-C</module>
+	</modules>
 </project>
