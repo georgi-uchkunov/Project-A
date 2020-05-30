@@ -11,7 +11,7 @@
 	<groupId>st.mag</groupId>
 	<artifactId>Project-A</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>Project-A</name>
 	<description>Example project for Software Tools</description>
 
