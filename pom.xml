@@ -88,5 +88,6 @@
 
 	<modules>
 		<module>Project-C</module>
+		<module>Project-B</module>
 	</modules>
 </project>
