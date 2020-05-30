@@ -8,6 +8,6 @@ public class MainController {
 
 	@GetMapping("/")
     public String redirectToMainPage() {
-        return "main";
+        return "Have a nice day!";
     }
 }
