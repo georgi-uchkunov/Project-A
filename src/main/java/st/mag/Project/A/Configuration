@@ -1,0 +1,10 @@
+package st.mag.Project.A;
+
+import org.springframework.context.annotation.ComponentScan;
+
+@ComponentScan("st.mag.Project.A")
+@org.springframework.context.annotation.Configuration
+public class Configuration {
+	
+	
+}
